@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sf="clr-namespace:Syncfusion.Maui.Sliders;assembly=Syncfusion.Maui.Sliders"
+             x:Class="MauiProject.MainPage">
+
+    <sf:SfSlider ShowLabels="True"
+                 Minimum="1"
+                 Maximum="10"
+                 Interval="1"
+                 Value="5"
+                 NumberFormat="$##"
+                 ShowTicks="True"
+                 MinorTicksPerInterval="1"
+                 ShowDividers="True"
+                 IsInversed="True"
+                 StepSize="2"
+                 Orientation="Vertical">
+        <sf:SfSlider.Tooltip>
+            <sf:SliderTooltip />
+        </sf:SfSlider.Tooltip>
+        <sf:SfSlider.DividerStyle>
+            <sf:SliderDividerStyle ActiveRadius="3"
+                                   InactiveRadius="7"></sf:SliderDividerStyle>
+        </sf:SfSlider.DividerStyle>
+    </sf:SfSlider>
+
+</ContentPage>
