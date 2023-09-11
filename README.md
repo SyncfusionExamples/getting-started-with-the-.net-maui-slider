@@ -11,19 +11,19 @@ To run this application, you need to first clone the `getting-started-with-the-.
 
 ## Labels
 
-Customize the [labels](https://help.syncfusion.com/maui/slider/labels) easily. Change the format, render at specific intervals, and add prefixes and suffixes. Use built-in support for numeric and date types.
+Customize the [labels](https://help.syncfusion.com/maui/slider/labels?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples) easily. Change the format, render at specific intervals, and add prefixes and suffixes. Use built-in support for numeric and date types.
 
 ## Tooltips
 
-Use [tooltips](https://help.syncfusion.com/maui/slider/tooltip) to indicate the current selection during interaction. Customize the format, whole text, and visibility using built-in APIs.
+Use [tooltips](https://help.syncfusion.com/maui/slider/tooltip?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples) to indicate the current selection during interaction. Customize the format, whole text, and visibility using built-in APIs.
 
 ## Ticks
 
-Set both major and minor [ticks](https://help.syncfusion.com/maui/slider/ticks) in the axis. Use major ticks to show the intervals clearly and minor ticks to help choose values between two intervals easily.
+Set both major and minor [ticks](https://help.syncfusion.com/maui/slider/ticks?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples) in the axis. Use major ticks to show the intervals clearly and minor ticks to help choose values between two intervals easily.
 
 ## Dividers
 
-Render [dividers](https://help.syncfusion.com/maui/slider/divider) in each interval to show the ranges accurately. Customize the size and position of the divider.
+Render [dividers](https://help.syncfusion.com/maui/slider/divider?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples) in each interval to show the ranges accurately. Customize the size and position of the divider.
 
 ## Related links
 [Learn More about .NET MAUI Slider](https://www.syncfusion.com/maui-controls/maui-slider?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples)
@@ -58,4 +58,3 @@ Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.
 <p align="center">
 <a href="mailto:sales@syncfusion.com?Subject=Syncfusion .NET MAUI Slider - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
 </p>
-
