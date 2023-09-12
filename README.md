@@ -42,7 +42,7 @@ Render [dividers](https://help.syncfusion.com/maui/slider/divider?utm_source=git
 
 [Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Sliders?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples)
 
-[Knowledge base](https://support.syncfusion.com/kb/cross-platforms/category/76?utm_source=github&utm_medium=listing&utm_campaign=maui-slider-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb?utm_source=github&utm_medium=listing&utm_campaign=blazor-dialog-github-samples)
 
 ## About Syncfusion .NET MAUI Controls
 
