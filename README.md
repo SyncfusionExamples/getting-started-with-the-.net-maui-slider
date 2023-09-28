@@ -1,10 +1,10 @@
 # Getting Started with the .NET MAUI Slider
 A quick-start project that helps you to integrate a Slider control in the .NET MAUI application by adding the Syncfusion MAUI Sliders package from NuGet. This project contains simple code customizations like how to bind values, set minimum and maximum values with intervals, labels, tooltips, ticks, dividers, and change the orientation.
 
-Refer to the following documentation for the Syncfusion .NET MAUI Slider Control: 
+**Refer to the following documentation for the Syncfusion .NET MAUI Slider Control:** 
 https://help.syncfusion.com/maui/slider/getting-started
 
-Check out this GitHub example for the Syncfusion .NET MAUI Slider Control: 
+**Check out this GitHub example for the Syncfusion .NET MAUI Slider Control:** 
 https://github.com/syncfusion/maui-demos/tree/master/MAUI/Sliders
 
 ## Project prerequisites
